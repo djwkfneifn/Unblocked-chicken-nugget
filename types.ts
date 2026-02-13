@@ -1,4 +1,3 @@
-
 export enum Category {
   ALL = 'All',
   ACTION = 'Action',
@@ -17,9 +16,4 @@ export interface Game {
   category: Category;
   tags: string[];
   isPopular?: boolean;
-}
-
-export interface SuggestionResponse {
-  recommendedGameId: string;
-  reason: string;
 }

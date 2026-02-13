@@ -1,1 +1,0 @@
-// Deprecated: Using index.tsx for built-in JSX transpilation support.
